@@ -7,18 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B3A43FA2B271F10006F820C /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3A43F92B271F10006F820C /* OnboardingView.swift */; };
+		4B3A43FD2B272287006F820C /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3A43FC2B272287006F820C /* FruitModel.swift */; };
+		4B3A44002B272328006F820C /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3A43FF2B272328006F820C /* FruitData.swift */; };
+		4B3A44022B27374B006F820C /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3A44012B27374B006F820C /* FruitRowView.swift */; };
 		4B4163C32B20AF6300940AFB /* FruitsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B4163C22B20AF6300940AFB /* FruitsApp.swift */; };
 		4B4163C52B20AF6300940AFB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B4163C42B20AF6300940AFB /* ContentView.swift */; };
 		4B4163C72B20AF6800940AFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B4163C62B20AF6800940AFB /* Assets.xcassets */; };
 		4B4163CA2B20AF6800940AFB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B4163C92B20AF6800940AFB /* Preview Assets.xcassets */; };
+		4B72076D2B21B84D002C57A1 /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B72076C2B21B84D002C57A1 /* FruitCardView.swift */; };
+		4B72076F2B21BD55002C57A1 /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B72076E2B21BD55002C57A1 /* StartButtonView.swift */; };
+		4BA72FE42B287D2E00439082 /* FruitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA72FE32B287D2E00439082 /* FruitDetailView.swift */; };
+		4BA72FE62B2881E700439082 /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA72FE52B2881E700439082 /* FruitHeaderView.swift */; };
+		4BA72FE82B2886F400439082 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA72FE72B2886F400439082 /* FruitNutrientsView.swift */; };
+		4BA72FEA2B288B2C00439082 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA72FE92B288B2C00439082 /* SourceLinkView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4B3A43F92B271F10006F820C /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		4B3A43FC2B272287006F820C /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
+		4B3A43FF2B272328006F820C /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
+		4B3A44012B27374B006F820C /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 		4B4163BF2B20AF6300940AFB /* Fruits.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fruits.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B4163C22B20AF6300940AFB /* FruitsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitsApp.swift; sourceTree = "<group>"; };
 		4B4163C42B20AF6300940AFB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4B4163C62B20AF6800940AFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B4163C92B20AF6800940AFB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4B72076C2B21B84D002C57A1 /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
+		4B72076E2B21BD55002C57A1 /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
+		4BA72FE32B287D2E00439082 /* FruitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitDetailView.swift; sourceTree = "<group>"; };
+		4BA72FE52B2881E700439082 /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
+		4BA72FE72B2886F400439082 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
+		4BA72FE92B288B2C00439082 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +52,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4B3A43F82B271DB1006F820C /* Screen */ = {
+			isa = PBXGroup;
+			children = (
+				4B4163C42B20AF6300940AFB /* ContentView.swift */,
+				4B3A43F92B271F10006F820C /* OnboardingView.swift */,
+				4BA72FE32B287D2E00439082 /* FruitDetailView.swift */,
+			);
+			path = Screen;
+			sourceTree = "<group>";
+		};
+		4B3A43FB2B272268006F820C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				4B3A43FC2B272287006F820C /* FruitModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		4B3A43FE2B27230B006F820C /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				4B3A43FF2B272328006F820C /* FruitData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
 		4B4163B62B20AF6300940AFB = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +97,11 @@
 		4B4163C12B20AF6300940AFB /* Fruits */ = {
 			isa = PBXGroup;
 			children = (
-				4B4163C22B20AF6300940AFB /* FruitsApp.swift */,
-				4B4163C42B20AF6300940AFB /* ContentView.swift */,
+				4B3A43FE2B27230B006F820C /* Data */,
+				4B3A43FB2B272268006F820C /* Model */,
+				4B3A43F82B271DB1006F820C /* Screen */,
+				4B72076B2B21B838002C57A1 /* View */,
+				4B72076A2B21B831002C57A1 /* App */,
 				4B4163C62B20AF6800940AFB /* Assets.xcassets */,
 				4B4163C82B20AF6800940AFB /* Preview Content */,
 			);
@@ -65,6 +114,27 @@
 				4B4163C92B20AF6800940AFB /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4B72076A2B21B831002C57A1 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				4B4163C22B20AF6300940AFB /* FruitsApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		4B72076B2B21B838002C57A1 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				4B72076E2B21BD55002C57A1 /* StartButtonView.swift */,
+				4B72076C2B21B84D002C57A1 /* FruitCardView.swift */,
+				4B3A44012B27374B006F820C /* FruitRowView.swift */,
+				4BA72FE52B2881E700439082 /* FruitHeaderView.swift */,
+				4BA72FE72B2886F400439082 /* FruitNutrientsView.swift */,
+				4BA72FE92B288B2C00439082 /* SourceLinkView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,7 +207,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B3A44002B272328006F820C /* FruitData.swift in Sources */,
+				4B72076D2B21B84D002C57A1 /* FruitCardView.swift in Sources */,
+				4B3A44022B27374B006F820C /* FruitRowView.swift in Sources */,
+				4B72076F2B21BD55002C57A1 /* StartButtonView.swift in Sources */,
+				4BA72FE42B287D2E00439082 /* FruitDetailView.swift in Sources */,
+				4BA72FE82B2886F400439082 /* FruitNutrientsView.swift in Sources */,
 				4B4163C52B20AF6300940AFB /* ContentView.swift in Sources */,
+				4BA72FE62B2881E700439082 /* FruitHeaderView.swift in Sources */,
+				4B3A43FA2B271F10006F820C /* OnboardingView.swift in Sources */,
+				4BA72FEA2B288B2C00439082 /* SourceLinkView.swift in Sources */,
+				4B3A43FD2B272287006F820C /* FruitModel.swift in Sources */,
 				4B4163C32B20AF6300940AFB /* FruitsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
